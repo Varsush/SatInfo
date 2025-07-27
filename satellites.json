@@ -1,0 +1,834 @@
+[
+  {
+    "name": "Chandrayaan-3",
+    "launch": "14 July 2023",
+    "mission": "Lunar Exploration",
+    "status": "Success",
+    "category": "Lunar Mission",
+    "link": "https://en.wikipedia.org/wiki/Chandrayaan-3"
+  },
+  {
+    "name": "Aditya-L1",
+    "launch": "02 September 2023",
+    "mission": "Solar Observation",
+    "status": "Success",
+    "category": "Remote Sensing",
+    "link": "https://en.wikipedia.org/wiki/Aditya-L1"
+  },
+  {
+    "name": "XPoSat",
+    "launch": "01 January 2024",
+    "mission": "X-ray Astronomy",
+    "status": "Success",
+    "category": "Scientific",
+    "link": "https://en.wikipedia.org/wiki/XPoSat"
+  },
+  {
+    "name": "INSAT-3DS",
+    "launch": "17 February 2024",
+    "mission": "Climate & Environment, Meteorology",
+    "status": "Success",
+    "category": "Meteorological",
+    "link": "https://en.wikipedia.org/wiki/INSAT-3DS"
+  },
+  {
+    "name": "Chandrayaan-2",
+    "launch": "22 July 2019",
+    "mission": "Lunar Exploration",
+    "status": "Orbiter operational, Lander/Rover failed",
+    "category": "Lunar Mission",
+    "link": "https://en.wikipedia.org/wiki/Chandrayaan-2"
+  },
+  {
+    "name": "Mangalyaan (Mars Orbiter Mission)",
+    "launch": "05 November 2013",
+    "mission": "Mars Orbiter",
+    "status": "Mission Completed (Decommissioned)",
+    "category": "Mars Mission",
+    "link": "https://en.wikipedia.org/wiki/Mars_Orbiter_Mission"
+  },
+  {
+    "name": "Aryabhata",
+    "launch": "19 April 1975",
+    "mission": "Experimental Satellite",
+    "status": "Success (Decommissioned)",
+    "category": "Technology Demonstration",
+    "link": "https://en.wikipedia.org/wiki/Aryabhata_(satellite)"
+  },
+  {
+    "name": "Kalpana-1 (METSAT)",
+    "launch": "12 September 2002",
+    "mission": "Meteorological Satellite",
+    "status": "Mission Completed",
+    "category": "Other",
+    "link": "https://en.wikipedia.org/wiki/Kalpana-1"
+  },
+  {
+    "name": "GSAT-30",
+    "launch": "17 January 2020",
+    "mission": "Communication",
+    "status": "Operational",
+    "category": "Communication",
+    "link": "https://en.wikipedia.org/wiki/GSAT-30"
+  },
+  {
+    "name": "EOS-07",
+    "launch": "10 February 2023",
+    "mission": "Earth Observation",
+    "status": "Operational",
+    "category": "Remote Sensing",
+    "link": "https://en.wikipedia.org/wiki/EOS%E2%80%9307"
+  },
+  {
+    "name": "EOS-06 (Oceansat-3)",
+    "launch": "26 November 2022",
+    "mission": "Earth Observation, Oceanography",
+    "status": "Operational",
+    "category": "Remote Sensing",
+    "link": "https://en.wikipedia.org/wiki/Oceansat-3"
+  },
+  {
+    "name": "GSAT-24",
+    "launch": "22 June 2022",
+    "mission": "Communication",
+    "status": "Operational",
+    "category": "Communication",
+    "link": "https://en.wikipedia.org/wiki/CMS-02"
+  },
+  {
+    "name": "CMS-01",
+    "launch": "17 December 2020",
+    "mission": "Communication",
+    "status": "Operational",
+    "category": "Communication",
+    "link": "https://en.wikipedia.org/wiki/CMS-01"
+  },
+  {
+    "name": "RISAT-2BR1",
+    "launch": "11 December 2019",
+    "mission": "Earth Observation, Disaster Management",
+    "status": "Operational",
+    "category": "Remote Sensing",
+    "link": "https://en.wikipedia.org/wiki/RISAT-2BR1"
+  },
+  {
+    "name": "Cartosat-3",
+    "launch": "27 November 2019",
+    "mission": "Earth Observation",
+    "status": "Operational",
+    "category": "Remote Sensing",
+    "link": "https://en.wikipedia.org/wiki/Cartosat-3"
+  },
+  {
+    "name": "GSAT-11",
+    "launch": "05 December 2018",
+    "mission": "Communication (High Throughput)",
+    "status": "Operational",
+    "category": "Communication",
+    "link": "https://en.wikipedia.org/wiki/GSAT-11"
+  },
+  {
+    "name": "GSAT-29",
+    "launch": "14 November 2018",
+    "mission": "Communication (High Throughput)",
+    "status": "Operational",
+    "category": "Communication",
+    "link": "https://en.wikipedia.org/wiki/GSAT-29"
+  },
+  {
+    "name": "HySIS",
+    "launch": "29 November 2018",
+    "mission": "Earth Observation (Hyperspectral Imaging)",
+    "status": "Operational",
+    "category": "Remote Sensing",
+    "link": "https://en.wikipedia.org/wiki/HySIS"
+  },
+  {
+    "name": "IRNSS-1I",
+    "launch": "12 April 2018",
+    "mission": "Navigation (NavIC)",
+    "status": "Operational",
+    "category": "Navigation",
+    "link": "https://en.wikipedia.org/wiki/IRNSS-1I"
+  },
+  {
+    "name": "GSAT-6A",
+    "launch": "29 March 2018",
+    "mission": "Communication",
+    "status": "Mission Failed (Lost Contact)",
+    "category": "Communication",
+    "link": "https://en.wikipedia.org/wiki/GSAT-6A"
+  },
+  {
+    "name": "Cartosat-2F",
+    "launch": "12 January 2018",
+    "mission": "Earth Observation",
+    "status": "Operational",
+    "category": "Remote Sensing",
+    "link": "https://en.wikipedia.org/wiki/Cartosat-2F"
+  },
+  {
+    "name": "GSAT-17",
+    "launch": "29 June 2017",
+    "mission": "Communication",
+    "status": "Operational",
+    "category": "Communication",
+    "link": "https://en.wikipedia.org/wiki/GSAT-17"
+  },
+  {
+    "name": "GSAT-19",
+    "launch": "05 June 2017",
+    "mission": "Communication",
+    "status": "Operational",
+    "category": "Communication",
+    "link": "https://en.wikipedia.org/wiki/GSAT-19"
+  },
+  {
+    "name": "Cartosat-2E",
+    "launch": "23 June 2017",
+    "mission": "Earth Observation",
+    "status": "Operational",
+    "category": "Remote Sensing",
+    "link": "https://en.wikipedia.org/wiki/Cartosat-2E"
+  },
+  {
+    "name": "GSAT-18",
+    "launch": "06 October 2016",
+    "mission": "Communication",
+    "status": "Operational",
+    "category": "Communication",
+    "link": "https://en.wikipedia.org/wiki/GSAT-18"
+  },
+  {
+    "name": "Resourcesat-2A",
+    "launch": "07 December 2016",
+    "mission": "Earth Observation",
+    "status": "Operational",
+    "category": "Remote Sensing",
+    "link": "https://en.wikipedia.org/wiki/Resourcesat-2A"
+  },
+  {
+    "name": "ScatSat-1",
+    "launch": "26 September 2016",
+    "mission": "Ocean and Weather Studies",
+    "status": "Operational",
+    "category": "Meteorological",
+    "link": "https://en.wikipedia.org/wiki/ScatSat-1"
+  },
+  {
+    "name": "INSAT-3DR",
+    "launch": "08 September 2016",
+    "mission": "Meteorological Satellite",
+    "status": "Operational",
+    "category": "Other",
+    "link": "https://en.wikipedia.org/wiki/INSAT-3DR"
+  },
+  {
+    "name": "IRNSS-1G",
+    "launch": "28 April 2016",
+    "mission": "Navigation (NavIC)",
+    "status": "Operational",
+    "category": "Navigation",
+    "link": "https://en.wikipedia.org/wiki/IRNSS-1G"
+  },
+  {
+    "name": "IRNSS-1F",
+    "launch": "10 March 2016",
+    "mission": "Navigation (NavIC)",
+    "status": "Operational",
+    "category": "Navigation",
+    "link": "https://en.wikipedia.org/wiki/IRNSS-1F"
+  },
+  {
+    "name": "IRNSS-1E",
+    "launch": "20 January 2016",
+    "mission": "Navigation (NavIC)",
+    "status": "Operational",
+    "category": "Navigation",
+    "link": "https://en.wikipedia.org/wiki/IRNSS-1E"
+  },
+  {
+    "name": "GSAT-15",
+    "launch": "11 November 2015",
+    "mission": "Communication",
+    "status": "Operational",
+    "category": "Communication",
+    "link": "https://en.wikipedia.org/wiki/GSAT-15"
+  },
+  {
+    "name": "Astrosat",
+    "launch": "28 September 2015",
+    "mission": "Multi-wavelength Astronomy",
+    "status": "Operational",
+    "category": "Scientific",
+    "link": "https://en.wikipedia.org/wiki/AstroSat"
+  },
+  {
+    "name": "GSAT-6",
+    "launch": "27 August 2015",
+    "mission": "Communication",
+    "status": "Operational",
+    "category": "Communication",
+    "link": "https://en.wikipedia.org/wiki/INSAT-4E"
+  },
+  {
+    "name": "IRNSS-1D",
+    "launch": "28 March 2015",
+    "mission": "Navigation (NavIC)",
+    "status": "Operational",
+    "category": "Navigation",
+    "link": "https://en.wikipedia.org/wiki/IRNSS-1D"
+  },
+  {
+    "name": "GSAT-16",
+    "launch": "06 December 2014",
+    "mission": "Communication",
+    "status": "Operational",
+    "category": "Communication",
+    "link": "https://en.wikipedia.org/wiki/GSAT-16"
+  },
+  {
+    "name": "IRNSS-1C",
+    "launch": "16 October 2014",
+    "mission": "Navigation (NavIC)",
+    "status": "Operational",
+    "category": "Navigation",
+    "link": "https://en.wikipedia.org/wiki/IRNSS-1C"
+  },
+  {
+    "name": "GSAT-14",
+    "launch": "05 January 2014",
+    "mission": "Communication",
+    "status": "Operational",
+    "category": "Communication",
+    "link": "https://en.wikipedia.org/wiki/GSAT-14"
+  },
+  {
+    "name": "GSAT-7 (Rukmini)",
+    "launch": "29 August 2013",
+    "mission": "Military Communication",
+    "status": "Operational",
+    "category": "Communication",
+    "link": "https://en.wikipedia.org/wiki/GSAT-7"
+  },
+  {
+    "name": "INSAT-3D",
+    "launch": "26 July 2013",
+    "mission": "Meteorological Satellite",
+    "status": "Operational",
+    "category": "Other",
+    "link": "https://en.wikipedia.org/wiki/INSAT-3D"
+  },
+  {
+    "name": "IRNSS-1B",
+    "launch": "04 April 2014",
+    "mission": "Navigation (NavIC)",
+    "status": "Operational",
+    "category": "Navigation",
+    "link": "https://en.wikipedia.org/wiki/IRNSS-1B"
+  },
+  {
+    "name": "IRNSS-1A",
+    "launch": "01 July 2013",
+    "mission": "Navigation (NavIC)",
+    "status": "Operational",
+    "category": "Navigation",
+    "link": "https://en.wikipedia.org/wiki/IRNSS-1A"
+  },
+  {
+    "name": "SARAL",
+    "launch": "25 February 2013",
+    "mission": "Oceanographic Studies (Indo-French)",
+    "status": "Operational",
+    "category": "Oceanography",
+    "link": "https://en.wikipedia.org/wiki/SARAL"
+  },
+  {
+    "name": "GSAT-10",
+    "launch": "29 September 2012",
+    "mission": "Communication",
+    "status": "Operational",
+    "category": "Communication",
+    "link": "https://en.wikipedia.org/wiki/GSAT-10"
+  },
+  {
+    "name": "RISAT-1",
+    "launch": "26 April 2012",
+    "mission": "Radar Imaging",
+    "status": "Operational",
+    "category": "Other",
+    "link": "https://en.wikipedia.org/wiki/RISAT-1"
+  },
+  {
+    "name": "Megha-Tropiques",
+    "launch": "12 October 2011",
+    "mission": "Tropical Weather and Climate (Indo-French)",
+    "status": "Operational",
+    "category": "Meteorological",
+    "link": "https://en.wikipedia.org/wiki/Megha-Tropiques"
+  },
+  {
+    "name": "GSAT-12",
+    "launch": "15 July 2011",
+    "mission": "Communication",
+    "status": "Operational",
+    "category": "Communication",
+    "link": "https://en.wikipedia.org/wiki/GSAT-12"
+  },
+  {
+    "name": "Resourcesat-2",
+    "launch": "20 April 2011",
+    "mission": "Earth Observation",
+    "status": "Operational",
+    "category": "Remote Sensing",
+    "link": "https://en.wikipedia.org/wiki/Resourcesat-2"
+  },
+  {
+    "name": "YouthSat",
+    "launch": "20 April 2011",
+    "mission": "Atmospheric Studies (Indo-Russian)",
+    "status": "Operational",
+    "category": "Other",
+    "link": "https://en.wikipedia.org/wiki/YouthSat"
+  },
+  {
+    "name": "GSAT-5P / INSAT-4D",
+    "launch": "25 December 2010",
+    "mission": "Communication",
+    "status": "Launch Failed",
+    "category": "Communication",
+    "link": "https://en.wikipedia.org/wiki/GSLV_Mk_I"
+  },
+  {
+    "name": "Cartosat-2B",
+    "launch": "12 July 2010",
+    "mission": "Earth Observation",
+    "status": "Operational",
+    "category": "Remote Sensing",
+    "link": "https://en.wikipedia.org/wiki/Cartosat-2B"
+  },
+  {
+    "name": "GSAT-4",
+    "launch": "15 April 2010",
+    "mission": "Communication (Experimental)",
+    "status": "Launch Failed",
+    "category": "Communication",
+    "link": "https://en.wikipedia.org/wiki/GSAT-4"
+  },
+  {
+    "name": "Oceansat-2",
+    "launch": "23 September 2009",
+    "mission": "Oceanographic Studies",
+    "status": "Operational",
+    "category": "Oceanography",
+    "link": "https://en.wikipedia.org/wiki/Oceansat-2"
+  },
+  {
+    "name": "ANUSAT",
+    "launch": "23 September 2009",
+    "mission": "Research Microsatellite",
+    "status": "Operational (Decommissioned)",
+    "category": "Scientific",
+    "link": "https://en.wikipedia.org/wiki/ANUSAT"
+  },
+  {
+    "name": "RISAT-2",
+    "launch": "20 April 2009",
+    "mission": "Radar Imaging",
+    "status": "Operational (Decommissioned)",
+    "category": "Other",
+    "link": "https://en.wikipedia.org/wiki/RISAT-2"
+  },
+  {
+    "name": "Chandrayaan-1",
+    "launch": "22 October 2008",
+    "mission": "Lunar Probe",
+    "status": "Mission Completed (Decommissioned)",
+    "category": "Lunar Mission",
+    "link": "https://en.wikipedia.org/wiki/Chandrayaan-1"
+  },
+  {
+    "name": "IMS-1",
+    "launch": "28 April 2008",
+    "mission": "Low-cost Microsatellite Imaging",
+    "status": "Operational (Decommissioned)",
+    "category": "Other",
+    "link": "https://en.wikipedia.org/wiki/IMS-1"
+  },
+  {
+    "name": "Cartosat-2A",
+    "launch": "28 April 2008",
+    "mission": "Earth Observation",
+    "status": "Operational",
+    "category": "Remote Sensing",
+    "link": "https://en.wikipedia.org/wiki/Cartosat-2A"
+  },
+  {
+    "name": "INSAT-4CR",
+    "launch": "02 September 2007",
+    "mission": "Communication",
+    "status": "Operational (Decommissioned)",
+    "category": "Communication",
+    "link": "https://en.wikipedia.org/wiki/INSAT-4CR"
+  },
+  {
+    "name": "INSAT-4B",
+    "launch": "11 March 2007",
+    "mission": "Communication",
+    "status": "Operational (Decommissioned)",
+    "category": "Communication",
+    "link": "https://en.wikipedia.org/wiki/INSAT-4B"
+  },
+  {
+    "name": "SRE-1 (Space Capsule Recovery Experiment)",
+    "launch": "10 January 2007",
+    "mission": "Technology Demonstrator (Re-entry)",
+    "status": "Success",
+    "category": "Technology Demonstration",
+    "link": "https://en.wikipedia.org/wiki/Space_Capsule_Recovery_Experiment"
+  },
+  {
+    "name": "Cartosat-2",
+    "launch": "10 January 2007",
+    "mission": "Earth Observation",
+    "status": "Operational",
+    "category": "Remote Sensing",
+    "link": "https://en.wikipedia.org/wiki/Cartosat-2"
+  },
+  {
+    "name": "INSAT-4C",
+    "launch": "10 July 2006",
+    "mission": "Communication",
+    "status": "Launch Failed",
+    "category": "Communication",
+    "link": "https://en.wikipedia.org/wiki/INSAT-4C"
+  },
+  {
+    "name": "INSAT-4A",
+    "launch": "22 December 2005",
+    "mission": "Communication",
+    "status": "Operational (Decommissioned)",
+    "category": "Communication",
+    "link": "https://en.wikipedia.org/wiki/INSAT-4A"
+  },
+  {
+    "name": "HAMSAT",
+    "launch": "05 May 2005",
+    "mission": "Amateur Radio Satellite",
+    "status": "Operational (Decommissioned)",
+    "category": "Other",
+    "link": "https://en.wikipedia.org/wiki/HAMSAT"
+  },
+  {
+    "name": "Cartosat-1",
+    "launch": "05 May 2005",
+    "mission": "Earth Observation",
+    "status": "Operational (Decommissioned)",
+    "category": "Remote Sensing",
+    "link": "https://en.wikipedia.org/wiki/Cartosat-1"
+  },
+  {
+    "name": "EDUSAT (GSAT-3)",
+    "launch": "20 September 2004",
+    "mission": "Educational Satellite",
+    "status": "Operational (Decommissioned)",
+    "category": "Educational",
+    "link": "https://en.wikipedia.org/wiki/GSAT-3"
+  },
+  {
+    "name": "RESOURCESAT-1 (IRS-P6)",
+    "launch": "17 October 2003",
+    "mission": "Earth Observation",
+    "status": "Operational (Decommissioned)",
+    "category": "Remote Sensing",
+    "link": "https://en.wikipedia.org/wiki/IRS-P6"
+  },
+  {
+    "name": "INSAT-3E",
+    "launch": "28 September 2003",
+    "mission": "Communication",
+    "status": "Operational (Decommissioned)",
+    "category": "Communication",
+    "link": "https://en.wikipedia.org/wiki/INSAT-3E"
+  },
+  {
+    "name": "GSAT-2",
+    "launch": "08 May 2003",
+    "mission": "Experimental Communication",
+    "status": "Success (Decommissioned)",
+    "category": "Communication",
+    "link": "https://en.wikipedia.org/wiki/GSAT-2"
+  },
+  {
+    "name": "INSAT-3A",
+    "launch": "10 April 2003",
+    "mission": "Communication, Meteorology, Search & Rescue",
+    "status": "Operational (Decommissioned)",
+    "category": "Communication",
+    "link": "https://en.wikipedia.org/wiki/INSAT-3A"
+  },
+  {
+    "name": "INSAT-3C",
+    "launch": "24 January 2002",
+    "mission": "Communication",
+    "status": "Operational (Decommissioned)",
+    "category": "Communication",
+    "link": "https://en.wikipedia.org/wiki/INSAT-3C"
+  },
+  {
+    "name": "Technology Experiment Satellite (TES)",
+    "launch": "22 October 2001",
+    "mission": "Experimental Remote Sensing",
+    "status": "Success (Decommissioned)",
+    "category": "Technology Demonstration",
+    "link": "https://en.wikipedia.org/wiki/Technology_Experiment_Satellite"
+  },
+  {
+    "name": "GSAT-1",
+    "launch": "18 April 2001",
+    "mission": "Experimental Communication",
+    "status": "Partial Success (Decommissioned)",
+    "category": "Communication",
+    "link": "https://en.wikipedia.org/wiki/GSAT-1"
+  },
+  {
+    "name": "INSAT-3B",
+    "launch": "21 March 2000",
+    "mission": "Communication",
+    "status": "Operational (Decommissioned)",
+    "category": "Communication",
+    "link": "https://en.wikipedia.org/wiki/INSAT-3B"
+  },
+  {
+    "name": "OceanSat-1 (IRS-P4)",
+    "launch": "26 May 1999",
+    "mission": "Oceanographic Studies",
+    "status": "Operational (Decommissioned)",
+    "category": "Oceanography",
+    "link": "https://en.wikipedia.org/wiki/IRS-P4"
+  },
+  {
+    "name": "INSAT-2E",
+    "launch": "03 April 1999",
+    "mission": "Communication, Meteorology",
+    "status": "Operational (Decommissioned)",
+    "category": "Communication",
+    "link": "https://en.wikipedia.org/wiki/INSAT-2E"
+  },
+  {
+    "name": "IRS-1D",
+    "launch": "29 September 1997",
+    "mission": "Earth Observation",
+    "status": "Operational (Decommissioned)",
+    "category": "Remote Sensing",
+    "link": "https://en.wikipedia.org/wiki/IRS-1D"
+  },
+  {
+    "name": "INSAT-2D",
+    "launch": "04 June 1997",
+    "mission": "Communication",
+    "status": "Failed (Inoperable)",
+    "category": "Communication",
+    "link": "https://en.wikipedia.org/wiki/INSAT-2D"
+  },
+  {
+    "name": "IRS-P3",
+    "launch": "21 March 1996",
+    "mission": "Earth Observation, X-ray Astronomy",
+    "status": "Operational (Decommissioned)",
+    "category": "Remote Sensing",
+    "link": "https://en.wikipedia.org/wiki/IRS-P3"
+  },
+  {
+    "name": "IRS-1C",
+    "launch": "28 December 1995",
+    "mission": "Earth Observation",
+    "status": "Operational (Decommissioned)",
+    "category": "Remote Sensing",
+    "link": "https://en.wikipedia.org/wiki/IRS-1C"
+  },
+  {
+    "name": "INSAT-2C",
+    "launch": "07 December 1995",
+    "mission": "Communication",
+    "status": "Operational (Decommissioned)",
+    "category": "Communication",
+    "link": "https://en.wikipedia.org/wiki/INSAT-2C"
+  },
+  {
+    "name": "IRS-P2",
+    "launch": "15 October 1994",
+    "mission": "Earth Observation",
+    "status": "Operational (Decommissioned)",
+    "category": "Remote Sensing",
+    "link": "https://en.wikipedia.org/wiki/IRS-P2"
+  },
+  {
+    "name": "SROSS-C2",
+    "launch": "04 May 1994",
+    "mission": "Scientific Research",
+    "status": "Success (Decommissioned)",
+    "category": "Scientific",
+    "link": "https://en.wikipedia.org/wiki/SROSS"
+  },
+  {
+    "name": "IRS-1E",
+    "launch": "20 September 1993",
+    "mission": "Earth Observation",
+    "status": "Launch Failed",
+    "category": "Remote Sensing",
+    "link": "https://en.wikipedia.org/wiki/IRS-1E"
+  },
+  {
+    "name": "INSAT-2B",
+    "launch": "23 July 1993",
+    "mission": "Communication, Meteorology",
+    "status": "Operational (Decommissioned)",
+    "category": "Communication",
+    "link": "https://en.wikipedia.org/wiki/INSAT-2B"
+  },
+  {
+    "name": "INSAT-2A",
+    "launch": "10 July 1992",
+    "mission": "Communication, Meteorology",
+    "status": "Operational (Decommissioned)",
+    "category": "Communication",
+    "link": "https://en.wikipedia.org/wiki/INSAT-2A"
+  },
+  {
+    "name": "SROSS-C",
+    "launch": "20 May 1992",
+    "mission": "Scientific Research",
+    "status": "Success (Decommissioned)",
+    "category": "Scientific",
+    "link": "https://en.wikipedia.org/wiki/SROSS"
+  },
+  {
+    "name": "INSAT-2DT (Arabsat 1C)",
+    "launch": "26 February 1992",
+    "mission": "Communication (Procured)",
+    "status": "Operational (Decommissioned)",
+    "category": "Communication",
+    "link": "https://en.wikipedia.org/wiki/INSAT-2DT"
+  },
+  {
+    "name": "IRS-1B",
+    "launch": "29 August 1991",
+    "mission": "Earth Observation",
+    "status": "Operational (Decommissioned)",
+    "category": "Remote Sensing",
+    "link": "https://en.wikipedia.org/wiki/IRS-1B"
+  },
+  {
+    "name": "INSAT-1D",
+    "launch": "12 June 1990",
+    "mission": "Communication, Meteorology",
+    "status": "Operational (Decommissioned)",
+    "category": "Communication",
+    "link": "https://en.wikipedia.org/wiki/INSAT-1D"
+  },
+  {
+    "name": "INSAT-1C",
+    "launch": "22 July 1988",
+    "mission": "Communication, Meteorology",
+    "status": "Partial Failure (Decommissioned)",
+    "category": "Communication",
+    "link": "https://en.wikipedia.org/wiki/INSAT-1C"
+  },
+  {
+    "name": "SROSS-2",
+    "launch": "13 July 1988",
+    "mission": "Scientific Research",
+    "status": "Launch Failed",
+    "category": "Scientific",
+    "link": "https://en.wikipedia.org/wiki/SROSS"
+  },
+  {
+    "name": "IRS-1A",
+    "launch": "17 March 1988",
+    "mission": "Earth Observation",
+    "status": "Success (Decommissioned)",
+    "category": "Remote Sensing",
+    "link": "https://en.wikipedia.org/wiki/IRS-1A"
+  },
+  {
+    "name": "SROSS-1",
+    "launch": "24 March 1987",
+    "mission": "Scientific Research",
+    "status": "Launch Failed",
+    "category": "Scientific",
+    "link": "https://en.wikipedia.org/wiki/SROSS"
+  },
+  {
+    "name": "INSAT-1B",
+    "launch": "30 August 1983",
+    "mission": "Communication, Meteorology",
+    "status": "Success (Decommissioned)",
+    "category": "Communication",
+    "link": "https://en.wikipedia.org/wiki/INSAT-1B"
+  },
+  {
+    "name": "Rohini RS-D2",
+    "launch": "17 April 1983",
+    "mission": "Remote Sensing Technology",
+    "status": "Success (Decommissioned)",
+    "category": "Technology Demonstration",
+    "link": "https://en.wikipedia.org/wiki/Rohini_(satellite)"
+  },
+  {
+    "name": "INSAT-1A",
+    "launch": "10 April 1982",
+    "mission": "Communication, Meteorology",
+    "status": "Failed (Inoperable)",
+    "category": "Communication",
+    "link": "https://en.wikipedia.org/wiki/INSAT-1A"
+  },
+  {
+    "name": "Bhaskara-II",
+    "launch": "20 November 1981",
+    "mission": "Experimental Remote Sensing",
+    "status": "Success (Decommissioned)",
+    "category": "Technology Demonstration",
+    "link": "https://en.wikipedia.org/wiki/Bhaskara_(satellites)"
+  },
+  {
+    "name": "APPLE (Ariane Passenger Payload Experiment)",
+    "launch": "19 June 1981",
+    "mission": "Experimental Communication",
+    "status": "Success (Decommissioned)",
+    "category": "Communication",
+    "link": "https://en.wikipedia.org/wiki/Ariane_Passenger_Payload_Experiment"
+  },
+  {
+    "name": "Rohini RS-D1",
+    "launch": "31 May 1981",
+    "mission": "Remote Sensing Technology",
+    "status": "Success (Decommissioned)",
+    "category": "Technology Demonstration",
+    "link": "https://en.wikipedia.org/wiki/Rohini_(satellite)"
+  },
+  {
+    "name": "Rohini RS-1",
+    "launch": "18 July 1980",
+    "mission": "Indigenous Satellite Launch",
+    "status": "Success (Decommissioned)",
+    "category": "Other",
+    "link": "https://en.wikipedia.org/wiki/Rohini_(satellite)"
+  },
+  {
+    "name": "Rohini Technology Payload",
+    "launch": "10 August 1979",
+    "mission": "Launch Vehicle Performance Monitoring",
+    "status": "Launch Failed (Did not achieve orbit)",
+    "category": "Other",
+    "link": "https://en.wikipedia.org/wiki/Rohini_(satellite)"
+  },
+  {
+    "name": "Bhaskara-I",
+    "launch": "07 June 1979",
+    "mission": "Experimental Remote Sensing",
+    "status": "Success (Decommissioned)",
+    "category": "Technology Demonstration",
+    "link": "https://en.wikipedia.org/wiki/Bhaskara_(satellites)"
+  }
+]

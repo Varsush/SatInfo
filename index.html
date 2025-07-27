@@ -1,0 +1,68 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>SatInfo – Indian Satellite Explorer</title>
+    <link rel="stylesheet" href="style.css" />
+  </head>
+  <body>
+    <!-- 🌍 Flying Satellite -->
+    <div class="satellite-wrapper">
+      <img src="images/satellite.png" alt="Satellite" class="fly-satellite" />
+    </div>
+
+    <h1>SatInfo – Indian Satellite Explorer</h1>
+    <div class="center"></div>
+    <!-- 🌌 Category Filter Section -->
+    <div id="filterTriggerBox">
+      <button id="filterBtn">Choose a Category</button>
+    </div>
+
+    <!-- 🌌 Modal -->
+    <div id="filterModal" class="modal">
+      <div class="modal-content">
+        <span id="filterCloseBtn" class="close">&times;</span>
+        <h3>Choose a Category</h3>
+        <div id="categoryList"></div>
+      </div>
+    </div>
+
+    <div id="facts-box">
+      <p id="sat-fact">Loading awesome ISRO fact...</p>
+    </div>
+
+    <input
+      type="text"
+      id="searchInput"
+      placeholder="   🔍  Name,Mission,Status or Year "
+      style="
+        padding: 10px 20px;
+        border-radius: 12px;
+        width: 300px;
+        margin-top: 20px;
+        font-size: 1rem;
+      "
+    />
+
+    <div id="satellite-container"></div>
+
+    <button id="backToTopBtn" title="Go to top">🚀</button>
+    <audio id="rocketSound" src="sounds/shooting.mp3" preload="auto"></audio>
+
+    <!-- 🧠 Quiz Floating Button -->
+    <button id="startQuizBtn">🤔 Want to test your knowledge?</button>
+
+    <!-- 📘 Quiz Modal -->
+    <div id="quizModal">
+      <div id="quizCard">
+        <span id="quizCloseBtn">✖</span>
+        <h2 id="quizQuestion">Loading question...</h2>
+        <div id="quizOptions"></div>
+        <p id="quizTimer"></p>
+      </div>
+    </div>
+
+    <script src="script.js"></script>
+  </body>
+</html>

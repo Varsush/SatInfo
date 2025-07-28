@@ -27,23 +27,26 @@
 
 ## 🌐 Live Demo (Optional)
 
-` https://varsush.github.io/SatInfo`
+` https://github.com/Varsush/SatInfo.git`
 
 ---
 
 ## 🧑‍💻 For Developers
 
-To enable the ISS tracking feature:
+To enable the optional ISS Tracking feature:
 
-### 1. Run the Proxy Server:
+### 1. Run the Proxy Server (Local Setup)
+
+This project includes a small proxy server (`proxy-server.js`) to securely fetch ISS data from the N2YO API. You must run it locally:
 
 ```bash
 npm install express cors
 node proxy-server.js
-```
+Keep the proxy server running while using the app.
 
-This sets up a local server to fetch ISS data securely from the N2YO API.
+The app sends ISS requests to: http://localhost:5000/iss-position.
 
+💡 This step is only required if you wish to enable the ISS live location feature.
 ---
 
 ## 🛠️ Built With
